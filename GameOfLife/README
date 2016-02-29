@@ -1,7 +1,5 @@
 Name: Joshua Smith
-Student ID: 1912591
-Assignment #: 2
-Class: Data Structures
+
 
 Comments:
 	- I used an array that was 2 rows and 2 columns bigger than the original grid so that I could
